@@ -1,0 +1,6 @@
+@ADAMiAM_HostAddress = http://localhost:5244
+
+GET {{ADAMiAM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
